@@ -15,5 +15,13 @@
         android:textSize="22dp"
         android:layout_centerHorizontal="true"
         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hola"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:onClick="Hola"
+        />
 
 </RelativeLayout>
