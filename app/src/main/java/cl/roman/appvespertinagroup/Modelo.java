@@ -16,6 +16,7 @@ public class Modelo {
         return "CONFIG";
     }
 
+
     public static String getInformation(){return "ok";}
 }
 
